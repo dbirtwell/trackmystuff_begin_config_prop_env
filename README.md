@@ -30,6 +30,9 @@ gradle bootRun
 then go to:
 
 http://localhost:8080/trackmystuff
+
+or
+
 http://localhost:8080/trackmystuff/message
 
 
