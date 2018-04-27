@@ -1,0 +1,26 @@
+Things to do:
+
+- Firm up Unit Tests
+- Firm up Integration Tests
+
+Add Delete, POST (add), PUT (update) and possible PATCH (revise a part of the item)
+
+- Revise Custom Error Handling class
+ 	CustomErrorController
+ 	
+- Add Entity-related errors (example, Item not found)
+
+- CURL examples
+
+look at ->
+http://www.springboottutorial.com/spring-boot-exception-handling-for-rest-services
+
+- Add Swagger Support
+- Add possible Postman collection for E2E tests
+- Add DB support (even if in memory)
+- Add support to use mock for local and DB for other ENVs
+	injected Configuration and version
+- add microservice /heath endpoint (actuator)
+- Update README.md
+
+-
