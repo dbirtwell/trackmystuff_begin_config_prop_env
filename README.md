@@ -49,7 +49,7 @@ gradle test
 ## Built With
 
 * [Spring Boot](https://projects.spring.io/spring-boot/) - The web framework used
-* [Gradle](https://maven.apache.org/) - Dependency Management
+* [Gradle](https://gradle.org/) - Dependency Management
 
 ## License
 
